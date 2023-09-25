@@ -1,0 +1,11 @@
+# intellij configs
+.idea/
+
+# IDE-related files.
+.vscode
+
+# googleapi protocol buffers
+.googleapis
+
+# Binary built from go build
+waas-proxy-server
